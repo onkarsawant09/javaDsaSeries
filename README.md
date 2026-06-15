@@ -2,10 +2,6 @@
 
 # 📚 Java DSA 
 
-[![Java](https://img.shields.io/badge/Java-17%2B-orange)](https://www.oracle.com/java/)
-[![DSA](https://img.shields.io/badge/DSA-Love%20Babbar-blue)](https://www.youtube.com/c/LoveBabbar)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/your-username/your-repo-name)
-
 This repository contains my complete **Data Structures & Algorithms (DSA)** journey in **Java**, following the legendary YouTube playlist by **Love Babbar**. The goal is to build strong problem-solving skills, master DSA concepts, and crack coding interviews at top tech companies.
 
 ## 📌 Table of Contents
